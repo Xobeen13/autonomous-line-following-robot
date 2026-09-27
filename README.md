@@ -19,8 +19,5 @@ Python, OpenCV, NumPy, I2C, computer vision, embedded systems, motor control, ro
 - `images/` — final robot/testing photos
 - `design/` — concept sketches and initial drawings
 
-## Reconstruction note
-This repository was reconstructed from the code and notes that remained from the original project. `blue_detection.py`, `turn180.py`, `io_i2c.py`, and `pickup_action.py` closely follow the preserved code. `main.py`, `line_follow.py`, and `green_detection.py` are reconstructed scaffolds because only partial text remained.
-
 ## Engineering takeaways
 The project integrated computer vision, embedded communication, motion control, mechanical design, and iterative testing into a single autonomous system.
